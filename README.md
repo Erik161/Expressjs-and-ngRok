@@ -44,9 +44,15 @@ before you should check that you have running the server.
 
 enter another new console window enter the following command along with the port you assigned in our case port 3000
 
+`$ ./ngrok.exe http 3000 `
+
 ![](comando.png)
 
-# 7 
+
+# 7 Enter the link from the mobile
+you will get the following you must enter the following link from a mobile phone.
+
+![](link.png)
 
 # 8 
 
