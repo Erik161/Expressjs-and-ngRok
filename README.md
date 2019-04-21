@@ -18,7 +18,13 @@ a package.json is created
 
 this works with an express backend already created
 
-# 3 Go to the ngRok website
+
+# 3 Enter the code that appears in the script index file
+![](index.png)
+
+
+
+# 4 Go to the ngRok website
 Is a console tool or program
 that runs the server from a local port and makes it public from a
 Internet address and you can try it from your
@@ -26,14 +32,19 @@ mobile device.
 
 ![](ngpage.png)
 
-# 4 Download the executable
-Automatically will be detecting your operating system
+# 5 Download the executable
+Automatically will be detecting your operating system.
+
+Uncompress the file after having unzipped the file you must save the executable in the project folder
+
 ![](ngrock.png)
 
-# 5
+# 6 Run the file in console
+before you should check that you have running the server.
 
+enter another new console window enter the following command along with the port you assigned in our case port 3000
 
-# 6 
+![](comando.png)
 
 # 7 
 
