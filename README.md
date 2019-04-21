@@ -54,11 +54,10 @@ you will get the following you must enter the following link from a mobile phone
 
 ![](link.png)
 
-# 8 
 
-# 9
+> As you can see, he has identified the mobile phone
 
-
+![](phone.png)
 
 
 
