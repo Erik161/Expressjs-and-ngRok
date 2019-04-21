@@ -26,8 +26,9 @@ mobile device.
 
 ![](ngpage.png)
 
-
-# 4
+# 4 Download the executable
+Automatically will be detecting your operating system
+![](ngrock.png)
 
 # 5
 
