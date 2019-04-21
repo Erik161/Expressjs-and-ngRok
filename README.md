@@ -18,6 +18,32 @@ a package.json is created
 
 this works with an express backend already created
 
+# 3 Go to the ngRok website
+Is a console tool or program
+that runs the server from a local port and makes it public from a
+Internet address and you can try it from your
+mobile device.
+
+![](ngrock.png)
+
+
+# 4
+
+# 5
+
+
+# 6 
+
+# 7 
+
+# 8 
+
+# 9
+
+
+
+
+
 enter the original documentation to see more details
 
 https://github.com/rguerreiro/express-device
