@@ -59,8 +59,6 @@ you will get the following you must enter the following link from a mobile phone
 
 ![](phone.png)
 
-
-
 enter the original documentation to see more details
 
 https://github.com/rguerreiro/express-device
