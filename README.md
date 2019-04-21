@@ -24,7 +24,7 @@ that runs the server from a local port and makes it public from a
 Internet address and you can try it from your
 mobile device.
 
-![](ngrock.png)
+![](ngpage.png)
 
 
 # 4
